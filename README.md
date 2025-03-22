@@ -23,13 +23,13 @@ This project automates JIRA issue creation whenever a specific event occurs in a
 ```bash
 git clone https://github.com/your-username/JiraIssueCreation.git
 cd JiraIssueCreation
-2️⃣ Create a Virtual Environment (Optional but Recommended)
+### 2️⃣ **Create a Virtual Environment (Optional but Recommended)**
 
 python3 -m venv venv
 source venv/bin/activate  # On macOS/Linux
 venv\Scripts\activate  # On Windows
 
-3️⃣ Install Dependencies
+### 3️⃣ **Install Dependencies**
 
 pip install -r requirements.txt
 
