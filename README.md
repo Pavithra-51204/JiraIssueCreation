@@ -19,7 +19,7 @@ This project automates JIRA issue creation whenever a specific event occurs in a
 
 ## 🚀 Installation & Setup
 
-### 1️⃣ **Clone the Repository**
+1️⃣ Clone the repository
 ```bash
 git clone https://github.com/your-username/JiraIssueCreation.git
 cd JiraIssueCreation
